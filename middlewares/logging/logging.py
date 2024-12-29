@@ -9,7 +9,6 @@ class Logging:
 		FileLogWriter(min_log=settings.MIN_TO_LOG)
 	]
 
-
 	@classmethod
 	def notset(cls, message):
 		cls._process_writers(message, Levels.NOTSET)
