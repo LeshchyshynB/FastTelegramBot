@@ -1,5 +1,5 @@
 
-# Project Title
+# About bot
 **FastTelegramBot** - This project is designed to quickly create your own Telegram bot by changing only a few lines of code.
 ## Directory tree
     Fast Telegram bot/
